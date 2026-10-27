@@ -1,13 +1,51 @@
-- 👋 Hi, I’m @Dev-pacatech, an enthusiastic beginner diving into the world of web development with the ultimate goal of becoming a Web3 developer.
-- 👀 I’m interested in understanding the foundational concepts of web development while keeping a keen eye on the advancements in blockchain technology and decentralized applications.
-- 🌱 I’m currently focusing on mastering HTML, CSS, and JavaScript to build a strong programming foundation before venturing into more advanced topics like smart contract development and decentralized finance (DeFi).
-- 💞️ I’m looking to collaborate on beginner-friendly web development projects to gain practical experience and build a supportive network within the developer community.
-- 📫 How to reach me: Don't hesitate to reach out on GitHub or via email at [dev.pacatech01@gmail.com] I'm eager to connect with fellow developers and learn together.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and envisioning how they can shape the future. Web3 development combines my passion for programming with the potential to revolutionize the way we interact with the internet.
+# Hi, I'm Joseph Emmanuel Chigozie (Dev.Pacatech)
 
+### IT Support Professional | Aspiring Cloud Engineer
 
-<!---
-Dev-pacatech/Dev-pacatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an IT support professional with a practical background in computer hardware, troubleshooting, and technical support. I'm developing my skills in cloud infrastructure, Linux administration, networking, automation, storage, and cybersecurity.
+
+My long-term goal is to become a cloud engineer capable of designing, deploying, securing, and maintaining reliable infrastructure in international technical environments.
+
+##  What I'm Working Toward
+
+- Linux system administration and server management
+- Networking fundamentals and troubleshooting
+- AWS cloud infrastructure, storage, IAM, and networking
+- Infrastructure as Code with Terraform
+- Python and Bash scripting for automation
+- Cloud security, monitoring, backup, and disaster recovery
+- Technical documentation and reproducible infrastructure
+
+##  My Learning Approach
+
+I focus on practical projects rather than course completion alone. I document what I build, the problems I encounter, how I troubleshoot them, and what I learn along the way.
+
+##  Projects
+
+*This section will grow as I complete and document practical projects.*
+
+- **Linux Administration Lab** — Building foundational Linux administration and troubleshooting skills.
+- **Network Troubleshooting Toolkit** — Planned project for documenting and automating basic network checks.
+- **Cloud Infrastructure with AWS and Terraform** — Planned project for learning repeatable cloud deployments.
+
+Project status and documentation will be updated as the work progresses.
+
+## Current Learning Focus
+
+- Linux on Windows using WSL
+- Command-line fundamentals and system administration
+- Networking fundamentals
+- Git and GitHub
+- Cloud engineering foundations
+
+##  Areas of Interest
+
+Cloud engineering, IT infrastructure, storage systems, cybersecurity, systems troubleshooting, and infrastructure automation.
+
+##  Connect With Me
+
+- GitHub: []
+- LinkedIn: []
+- Email: [info.pacatech@gmail.com]
+
+*Learning consistently. Building practically. Improving continuously.*
